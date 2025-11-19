@@ -1,0 +1,6 @@
+*
+!src/
+!src/**
+node_modules
+dist
+public
